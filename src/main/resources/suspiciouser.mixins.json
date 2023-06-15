@@ -5,6 +5,9 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "suspiciouser.refmap.json",
   "mixins": [
+    "BrushableBlockEntityMixin",
+    "GravelBlockMixin",
+    "SandBlockMixin"
   ],
   "client": [
   ],
