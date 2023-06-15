@@ -16,7 +16,7 @@ plugins {
 apply plugin: 'org.spongepowered.mixin'
 
 group = 'ru.pashkovd'
-version = '0.0'
+version = '0.1'
 
 java {
     archivesBaseName = 'suspiciouser'
